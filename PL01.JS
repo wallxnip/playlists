@@ -5,7 +5,7 @@ Amplitude.init({
 "name": "MOOD",
 "artist": "Type Drilland Melodic",
 "url": "drill/MOOD.mp3",
-"cover_art_url": "album/cover/drilland.jpg" },
+"cover_art_url": "https://i.postimg.cc/vZpDdMGV/2.jpg" },
 
 {
 "name": "WALK",
