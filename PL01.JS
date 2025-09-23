@@ -2,10 +2,10 @@ Amplitude.init({
 "songs": [
 
 {
-"name": "MOOD",
-"artist": "Type Drilland Melodic",
-"url": "drill/MOOD.mp3",
-"cover_art_url": "https://i.postimg.cc/vZpDdMGV/2.jpg" },
+"name": "Sorry",
+"artist": "Justin Bieber",
+"url": "https://topghanamusic.com/wp-content/uploads/2025/07/Justin-Bieber-Sorry-(TopGhanaMusic.Com).mp3",
+"cover_art_url": "https://i.postimg.cc/HxtL5yXw/1.png" },
 
 {
 "name": "WALK",
