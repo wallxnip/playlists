@@ -1,25 +1,28 @@
-Amplitude.init({
-    "songs": [
-        {
-            "name": "Sorry",
-            "artist": "Justin Bieber",
-            "url": "https://topghanamusic.com/wp-content/uploads/2025/07/Justin-Bieber-Sorry-(TopGhanaMusic.Com).mp3",
-            "cover_art_url": "https://i.postimg.cc/zf43vDq5/2025-09-22-20-44-16-artworks-000261882173-b14ar2-t240x240.jpg"
-        },
-        {
-            "name": "Ghost",
-            "artist": "Justin Bieber",
-            "url": "https://www.thinkmusic.com.ng/thinknews/uploads/2025/06/Justin_Bieber_-_Ghost_thinknews.com.ng.mp3",
-            "cover_art_url": "https://i.postimg.cc/gjgSnxLJ/Stream-Justin-Bieber-Ghost-by-Kixibee-Listen-online-for-free.jpg"
-        }
-    ]
-});
+const songs = [
+    {
+        "name": "Sorry",
+        "artist": "Justin Bieber",
+        "url": "https://topghanamusic.com/wp-content/uploads/2025/07/Justin-Bieber-Sorry-(TopGhanaMusic.Com).mp3",
+        "cover_art_url": "https://i.postimg.cc/zf43vDq5/2025-09-22-20-44-16-artworks-000261882173-b14ar2-t240x240.jpg"
+    },
+    {
+        "name": "Ghost",
+        "artist": "Justin Bieber",
+        "url": "https://www.thinkmusic.com.ng/thinknews/uploads/2025/06/Justin_Bieber_-_Ghost_thinknews.com.ng.mp3",
+        "cover_art_url": "https://i.postimg.cc/gjgSnxLJ/Stream-Justin-Bieber-Ghost-by-Kixibee-Listen-online-for-free.jpg"
+    }
+];
 
-// Função para baixar qualquer arquivo a partir de URL
+// Inicializa o Amplitude
+Amplitude.init({ songs: songs });
+
+// Função de download
 function baixarMusica(url) {
+    if (!url) { alert("URL inválida."); return; }
+
     fetch(url)
         .then(response => {
-            if (!response.ok) throw new Error('Erro ao baixar arquivo.');
+            if (!response.ok) throw new Error("Erro ao acessar a URL.");
             return response.blob();
         })
         .then(blob => {
@@ -34,12 +37,27 @@ function baixarMusica(url) {
         .catch(err => console.error('Erro ao baixar:', err));
 }
 
-// Seleciona o botão e adiciona o evento
-document.getElementById('download-btn').addEventListener('click', () => {
-    const currentSong = Amplitude.getActiveSongMetadata(); // pega música atual
-    if (currentSong && currentSong.url) {
-        baixarMusica(currentSong.url);
+// Botão de download
+const downloadBtn = document.getElementById('download-btn');
+
+// Função para atualizar botão de forma segura
+function atualizarBotao() {
+    const activeIndex = Amplitude.getActiveIndex();
+    const songs = Amplitude.getSongs();
+
+    if (activeIndex !== null && songs[activeIndex] && songs[activeIndex].url) {
+        downloadBtn.disabled = false;
+        downloadBtn.onclick = () => baixarMusica(songs[activeIndex].url);
     } else {
-        alert("Nenhuma música está tocando no momento.");
+        downloadBtn.disabled = true;
+        downloadBtn.onclick = null;
     }
+}
+
+// Atualiza botão quando a música muda
+Amplitude.bind("song_change", () => {
+    atualizarBotao();
 });
+
+// Inicializa o estado do botão
+atualizarBotao();
