@@ -5,31 +5,13 @@ Amplitude.init({
 "name": "Sorry",
 "artist": "Justin Bieber",
 "url": "https://topghanamusic.com/wp-content/uploads/2025/07/Justin-Bieber-Sorry-(TopGhanaMusic.Com).mp3",
-"cover_art_url": "https://i.postimg.cc/HxtL5yXw/1.png" },
+"cover_art_url": "https://i.postimg.cc/zf43vDq5/2025-09-22-20-44-16-artworks-000261882173-b14ar2-t240x240.jpg" },
 
 {
-"name": "WALK",
-"artist": "Wallker",
-"url": "drill/WALK.mp3",
-"cover_art_url": "album/cover/drilland.jpg" },
-
-{
-"name": "LOVE V",
-"artist": "Wallker",
-"url": "drill/LOVE V.mp3",
-"cover_art_url": "album/cover/drilland.jpg" },
-
-{
-"name": "LOST",
-"artist": "Wallker",
-"url": "drill/LOST.mp3",
-"cover_art_url": "album/cover/drilland.jpg" },
-
-{
-"name": "CRY",
-"artist": "Wallker",
-"url": "drill/CRY.mp3",
-"cover_art_url": "album/cover/drilland.jpg" }] });
+"name": "Ghost",
+"artist": "Justin Bieber",
+"url": "https://www.thinkmusic.com.ng/thinknews/uploads/2025/06/Justin_Bieber_-_Ghost_thinknews.com.ng.mp3",
+"cover_art_url": "https://i.postimg.cc/gjgSnxLJ/Stream-Justin-Bieber-Ghost-by-Kixibee-Listen-online-for-free.jpg" }] });
 
 
 
