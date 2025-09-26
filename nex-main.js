@@ -1,3 +1,29 @@
-  const playlists = {
-    onclick1: playlist1,
-  };
+const playlists = {
+onclick1: playlist1,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+};
