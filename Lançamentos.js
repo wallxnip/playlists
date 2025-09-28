@@ -40,7 +40,7 @@ const playlist1 = [
     title: "Good Feeling",
     artist: "Flo Rida",
     file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaHJiUnFQemtXMmw1RlNFbitsOC9SV0dXdHhmY0pzRmVwVXdqalQ2cUF2RE1qcWkweVJ5UkovVUJWNkFFTis1REk9/Flo_Rida_-_Good_Feeling_(Rilds.com).mp3",
-    cover: "https://i.postimg.cc/DZLrK8qR/Good-Feeling.jpg"
+    cover: "https://i.postimg.cc/ZnpN4BN1/Good-Feeling-by-Flo-Rida-Rihanna-lyrics-Piano-sheet-music-Kar.jpg"
   },
   {
     title: "Whistle",
@@ -107,19 +107,19 @@ const playlist1 = [
     title: "Knockout",
     artist: "Tungevaag",
     file: "https://dl.muzofan.net/mp3/Tungevaag_-_Knockout_(www.muzofan.net).mp3",
-    cover: "https://i.postimg.cc/6qfTQzvd/Tungevaag.jpg"
+    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
     title: "Make You Happy",
     artist: "Tungevaag",
     file: "https://dl.muzofan.net/mp3/Tungevaag_-_Make_You_Happy_(www.muzofan.net).mp3",
-    cover: "https://i.postimg.cc/6qfTQzvd/Tungevaag.jpg"
+    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
     title: "Kingdoms",
     artist: "Tungevaag & Jay Hardway",
     file: "https://dl.muzofan.net/mp3/Tungevaag__Jay_Hardway_-_Kingdoms_(www.muzofan.net).mp3",
-    cover: "https://i.postimg.cc/6qfTQzvd/Tungevaag.jpg"
+    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
     title: "Tusa",
