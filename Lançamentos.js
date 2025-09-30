@@ -39,7 +39,7 @@ const playlist1 = [
   {
     title: "Good Feeling",
     artist: "Flo Rida",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaHJiUnFQemtXMmw1RlNFbitsOC9SV0dXdHhmY0pzRmVwVXdqalQ2cUF2RE1qcWkweVJ5UkovVUJWNkFFTis1REk9/Flo_Rida_-_Good_Feeling_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/tg9gli.mp3",
     cover: "https://i.postimg.cc/ZnpN4BN1/Good-Feeling-by-Flo-Rida-Rihanna-lyrics-Piano-sheet-music-Kar.jpg"
   },
   {
