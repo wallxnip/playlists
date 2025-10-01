@@ -10,7 +10,7 @@ const playlist20 = [
     title: "Ghost",
     artist: "Drilland",
     file: "https://www.thinkmusic.com.ng/thinknews/uploads/2025/06/Justin_Bieber_-_Ghost_thinknews.com.ng.mp3",
-    cover: "https://i.postimg.cc/fb2GMsFZ/Ghost.jpg"
+    cover: "https://i.postimg.cc/JhDvxpmM/2.jpg"
   }
   
 
