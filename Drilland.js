@@ -3,13 +3,13 @@ const playlist20 = [
   {
     title: "MOOD",
     artist: "Drilland (Melodic Drill Type Beat)",
-    file: "https://www.voxnaija.com.ng/wp-content/uploads/2023/09/Drilland_-_Mood_Melodic_Drill_Type_Beat_.mp3",
+    file: "https://ia601001.us.archive.org/4/items/humor_20251001/MOOD.mp3",
     cover: "https://i.postimg.cc/JhDvxpmM/2.jpg"
   },
   {
-    title: "Ghost",
+    title: "Cry",
     artist: "Drilland",
-    file: "https://www.thinkmusic.com.ng/thinknews/uploads/2025/06/Justin_Bieber_-_Ghost_thinknews.com.ng.mp3",
+    file: "https://ia601001.us.archive.org/4/items/humor_20251001/CRY.mp3?cnt=0",
     cover: "https://i.postimg.cc/JhDvxpmM/2.jpg"
   }
   
