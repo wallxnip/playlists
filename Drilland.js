@@ -4,7 +4,7 @@ const playlist20 = [
     title: "MOOD",
     artist: "Drilland (Melodic Drill Type Beat)",
     file: "https://www.voxnaija.com.ng/wp-content/uploads/2023/09/Drilland_-_Mood_Melodic_Drill_Type_Beat_.mp3",
-    cover: "https://www.voxnaija.com.ng/wp-content/uploads/2023/09/Drilland-%E2%80%93-Mood-Melodic-Drill-Type-Beat.webp"
+    cover: "https://i.postimg.cc/JhDvxpmM/2.jpg"
   },
   {
     title: "Ghost",
