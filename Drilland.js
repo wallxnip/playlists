@@ -3,7 +3,7 @@ const playlist20 = [
   {
     title: "MOOD",
     artist: "Drilland (Melodic Drill Type Beat)",
-    file: "https://ia601001.us.archive.org/4/items/humor_20251001/MOOD.mp3",
+    file: "https://drive.google.com/uc?export=download&id=1xt-7EEiRf8C16P3t5gMAQOI53yr4XDm-",
     cover: "https://i.postimg.cc/JhDvxpmM/2.jpg"
   },
   {
