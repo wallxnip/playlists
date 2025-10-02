@@ -57,19 +57,19 @@ const playlist1 = [
   {
     title: "There For Me",
     artist: "Braaten & Victor Perry",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaFdxTGQrUjBlWXVxMGJDaFJab3hlaE02QWtEMEVOUW9hWW4rWTY5ckJqUkdpbE1ickJCc2VNWXorcEF6d1pYOG89/Braaten_Victor_Perry_-_There_For_Me_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/55rhhy.mp3",
     cover: "https://i.postimg.cc/ZYMhBn31/There-For-Me.png"
   },
   {
     title: "Burn",
     artist: "Ellie Goulding",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaHJiUnFQemtXMmw1RlNFbitsOC9SV3BNZzFadEdMWVpJNi9VRkZzS2VDMk0vclhLbXcvSGJPYkF3em9EaFJJSlk9/Ellie_Goulding_-_Burn_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/nagm5w.mp3",
     cover: "https://i.postimg.cc/XYD2xBNb/Ellie-Goulding-Burn.png"
   },
   {
     title: "She Doesn t Mind",
     artist: "Sean Paul",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaWlJbGQ1bmY1ZE9zRlNmZmtTbGE4M2dub1lyZGZDR3FUUktkc0d3SkdSY3N0c3dDTHJ5RTdPcjF5UXZOeTNFeTA9/Sean_Paul_-_She_Doesn_t_Mind_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/2sihut.mp3",
     cover: "https://i.postimg.cc/DwsgQjNq/She-Doesn-t-Mind.jpg"
   },
   {
@@ -81,7 +81,7 @@ const playlist1 = [
   {
     title: "Girl On The Moon",
     artist: "Naya",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaHJiUnFQemtXMmw1RlNFbitsOC9SV05iRHFONlFxaVNVOGRJQURBYVRpMFVwM2JHMlBoRzk0LzU5RFN0NW5qcG89/Naya_-_Girl_On_The_Moon_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/l25lw2.mp3",
     cover: "https://i.postimg.cc/fR93gkYd/Naya-Ruby.jpg"
   },
   
@@ -94,31 +94,31 @@ const playlist1 = [
   {
     title: "Dont Leave Me Now",
     artist: "Lost Frequencies",
-    file: "https://dl.muzofan.net/mp3/Lost_Frequencies__Mathieu_Koss_-_Dont_Leave_Me_Now_(www.muzofan.net).mp3",
+    file: "https://files.catbox.moe/w6cggl.mp3",
     cover: "https://i.postimg.cc/9Fst5n1S/Lzf.jpg"
   },
   {
     title: "Play",
     artist: "Alan Walker & Tungevaag",
-    file: "https://dl.muzofan.net/mp3/Alan_Walker__K-391_Ft._Tungevaag__Mangoo_-_Play_(www.muzofan.net).mp3",
+    file: "https://files.catbox.moe/1s4gxi.mp3",
     cover: "https://i.postimg.cc/qRMCCPp1/AW.jpg"
   },
   {
     title: "Knockout",
     artist: "Tungevaag",
-    file: "https://dl.muzofan.net/mp3/Tungevaag_-_Knockout_(www.muzofan.net).mp3",
+    file: "https://files.catbox.moe/ulxi3h.mp3",
     cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
     title: "Make You Happy",
     artist: "Tungevaag",
-    file: "https://dl.muzofan.net/mp3/Tungevaag_-_Make_You_Happy_(www.muzofan.net).mp3",
+    file: "https://files.catbox.moe/ef6oj6.mp3",
     cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
     title: "Kingdoms",
     artist: "Tungevaag & Jay Hardway",
-    file: "https://dl.muzofan.net/mp3/Tungevaag__Jay_Hardway_-_Kingdoms_(www.muzofan.net).mp3",
+    file: "https://files.catbox.moe/45ckcv.mp3",
     cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
   },
   {
@@ -166,13 +166,13 @@ const playlist1 = [
   {
     title: "Lovely",
     artist: "Billie Eilish",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxakg3a1BTUkxSR3psVnkya00vSHNIMTVZQW1IeWljRjd2VkMvODZCcWZIcWFueFlLVWtnakJaUmF5MUp1T2QxMUU9/Billie_Eilish_-_lovely_with_Khalid_Lyrics_Video_(Rilds.com).mp3",
+    file: "https://files.catbox.moe/5i9juo.mp3",
     cover: "https://i.postimg.cc/cL2wgxHT/Ly.png"
   },
   {
     title: "Let Me Down Slowly",
-    artist: "#Alec Benjamin",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaWlJbGQ1bmY1ZE9zRlNmZmtTbGE4M3NPVVFYazY5Qmkvbk1va2t6RnozTlp5dzRSSkZiVHpDUkFDQUU5cHNodUk9/Alec_Benjamin_-_Let_Me_Down_Slowly_(Rilds.com).mp3",
+    artist: "Alec Benjamin",
+    file: "https://files.catbox.moe/ndxvu0.mp3",
     cover: "https://i.postimg.cc/ZRCrCWPf/Let-Me-Down-Slowly.jpg"
   }
 
