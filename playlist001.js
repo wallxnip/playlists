@@ -167,13 +167,13 @@ const playlist1 = [
     title: "Lovely",
     artist: "Billie Eilish",
     file: "https://files.catbox.moe/5i9juo.mp3",
-    cover: "https://i.postimg.cc/cL2wgxHT/Ly.png"
+    cover: "https://i.postimg.cc/133xG8wQ/Billie-Eilish-Lovely-1.jpg"
   },
   {
     title: "Let Me Down Slowly",
     artist: "Alec Benjamin",
     file: "https://files.catbox.moe/ndxvu0.mp3",
-    cover: "https://i.postimg.cc/ZRCrCWPf/Let-Me-Down-Slowly.jpg"
+    cover: "https://i.postimg.cc/FsZ5kydr/Let-Me-Down-Slowly-Cover-You-Tube-Music-1.jpg"
   }
 
 ];
