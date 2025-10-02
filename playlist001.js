@@ -1,5 +1,5 @@
 // Lista de músicas
-const playlist1 = [
+const playlist001 = [
   {
     title: "Sorry",
     artist: "Justin Bieber",
