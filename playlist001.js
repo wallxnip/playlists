@@ -27,25 +27,25 @@ const playlist1 = [
   {
     title: "Numb",
     artist: "Marshmello, Khalid",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxalJ6Y1U3V3p1ZDdzRk9xRDdKQlg3cDNFaThhbENkZTBGZjZhYXhqejdwSi82UHlxdE5UVWRqR3AzVDZFaDg1c3c9/Marshmello_Khalid_-_Numb_DJ_YUKI_Remix_(Rilds.com).mp3",
+    file: "https://cs1.mp3.pm/download/209720228/WlFGR3krL2dkRHZmWW54cFVuaG5SYitRaEtLRm02L25aakt3WVQrQzlVUHNvTWx6WFFtZUJUc2pBNFlrM3RPZE1PNmhodEgvRVBQL3pJTXM4V0xHSnFVWitwNGc4OTY4UCtHYUJEaXRmNHpmSmJSK1FucldZd05OSzI2dnE5d04/Marshmello_Khalid_-_Numb_DJ_YUKI_Remix_(mp3.pm).mp3",
     cover: "https://i.postimg.cc/kg6j1Njy/Numb.jpg"
   },
   {
     title: "Girls in Luv",
     artist: "DJane HouseKat feat. Rameez",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaWlJbGQ1bmY1ZE9zRlNmZmtTbGE4M1dscTVpT0tHdUQzWEMzdFZVUWZZVW5ZOUhaTmRuUjBjMTNieitmcFdzSjA9/DJane_HouseKat_feat._Rameez_-_Girls_in_Luv_original_(Rilds.com).mp3",
+    file: "https://cs1.mp3.pm/listen/92812357/WlFGR3krL2dkRHZmWW54cFVuaG5SYitRaEtLRm02L25aakt3WVQrQzlVTkRQZGwvZE5TeGhMMHFNQjBlc3J0TmV4RnZVc3c3ZGxUNXVMQytrZVdNVytWUnBmL094dkpvd0FyTFkxNTl2MVVFTngvazVhYWVJNWMwZkMvVzZZakE/Rameez_-_Girls_In_Luv_(mp3.pm).mp3",
     cover: "https://i.postimg.cc/kgFj3Yy7/Girls-in-Luv.jpg"
   },
   {
     title: "Good Feeling",
     artist: "Flo Rida",
-    file: "https://files.catbox.moe/tg9gli.mp3",
+    file: "https://fine.sunproxy.net/file/MnJqY0RNNDJxRVE2VTFIa3U0anF6NWJaeE5VVFIyUHFhSVhxUUJjbVBXTGc3dDFoQS8zOGFKWGxqQk5tVmRVbmNEQlNpMHkrQytaMG4zQ0ZLWlp1L2tBZGtCWFZsNHhJclAzK0plc25vZFE9/Flo_Rida_-_Good_Feeling_(Rilds.com).mp3",
     cover: "https://i.postimg.cc/ZnpN4BN1/Good-Feeling-by-Flo-Rida-Rihanna-lyrics-Piano-sheet-music-Kar.jpg"
   },
   {
     title: "Whistle",
     artist: "Flo Rida",
-    file: "https://fine.sunproxy.net/file/NTMvWGg4T0dnL2M1SllIcDU0VjlJT2oydTdxS0pDTkJRa0lhU0pDTkIxaHJiUnFQemtXMmw1RlNFbitsOC9SV3BtdjFVbnlSSFVSc28rVHBSelJHTXJDYWlGT0NGWkFVUFNVb0Frc25xdG89/Flo_Rida_-_Whistle_(Rilds.com).mp3",
+    file: "https://fine.sunproxy.net/file/MnJqY0RNNDJxRVE2VTFIa3U0anF6NWJaeE5VVFIyUHFhSVhxUUJjbVBXTGc3dDFoQS8zOGFKWGxqQk5tVmRVbnhsUEVvUjJsdzUwSFNDZ3Vhc0NUQjJUWXFvQUVwRDdLaEtreEQzVEJaM009/Flo_Rida_-_Whistle_(Rilds.com).mp3",
     cover: "https://i.postimg.cc/XNTvCs6K/Whistle.png"
   },
   {
