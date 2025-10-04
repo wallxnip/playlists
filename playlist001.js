@@ -5,7 +5,7 @@ const playlist1 = [
     artist: "Justin Bieber",
     file: "https://files.catbox.moe/gm6wog.mp3",
     cover: "https://i.postimg.cc/Qdrs1YC5/Pin-by-Emma-on-Singers-Justin-bieber-wallpaper-Justin-bieb.png"
-    coverBlur: "https://i.postimg.cc/XXXXX/pixel-borrado.jpg"
+    coverBlur: "https://i.postimg.cc/Qdrs1YC5/Pin-by-Emma-on-Singers-Justin-bieber-wallpaper-Justin-bieb.png"
   },
   {
     title: "Ghost",
