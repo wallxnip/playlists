@@ -1,11 +1,16 @@
 // Lista de músicas
 const playlist1 = [
   {
+    title: "Pandora",
+    artist: "David Win",
+    file: "https://files.catbox.moe/ihelhc.mp3",
+    cover: "https://i.postimg.cc/5y1s6kzm/Beauty-Plus-20251005004124136-save.jpg"
+  },
+  {
     title: "Sorry",
     artist: "Justin Bieber",
     file: "https://files.catbox.moe/gm6wog.mp3",
-    cover: "https://i.postimg.cc/Qdrs1YC5/Pin-by-Emma-on-Singers-Justin-bieber-wallpaper-Justin-bieb.png",
-    coverBlur: "https://i.postimg.cc/fTC0zgw5/Just-Bieber.jpg"
+    cover: "https://i.postimg.cc/Qdrs1YC5/Pin-by-Emma-on-Singers-Justin-bieber-wallpaper-Justin-bieb.png"
   },
   {
     title: "Ghost",
