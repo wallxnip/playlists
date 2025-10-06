@@ -1,5 +1,5 @@
 // Lista de músicas
-const playlist002 = [
+const playlist2 = [
   {
     title: "Quando posso te ver novamente?",
     artist: "Detona Ralph",
