@@ -3,183 +3,219 @@ const playlist1 = [
   {
     title: "Pandora",
     artist: "David Win",
-    file: "https://files.catbox.moe/ihelhc.mp3",
-    cover: "https://i.postimg.cc/5y1s6kzm/Beauty-Plus-20251005004124136-save.jpg"
+    file: "https://hs10.krakenfiles.com/uploads/06-10-2025/rOQRaw5XV5/music.m4a",
+    cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/rOQRaw5XV5/cover.png"
   },
   {
     title: "Sorry",
     artist: "Justin Bieber",
-    file: "https://files.catbox.moe/gm6wog.mp3",
-    cover: "https://i.postimg.cc/Qdrs1YC5/Pin-by-Emma-on-Singers-Justin-bieber-wallpaper-Justin-bieb.png"
+    file: "https://hs9.krakenfiles.com/uploads/06-10-2025/IV2ksX2ETu/music.m4a",
+    cover: "https://hs9.krakenfiles.com/uploads/06-10-2025/IV2ksX2ETu/cover.png"
   },
   {
     title: "Ghost",
     artist: "Justin Bieber",
-    file: "https://files.catbox.moe/82i0xx.mp3",
-    cover: "https://i.postimg.cc/gjgSnxLJ/Stream-Justin-Bieber-Ghost-by-Kixibee-Listen-online-for-free.jpg"
+    file: "https://hs9.krakenfiles.com/uploads/06-10-2025/SnMiKZuYo7/music.m4a",
+    cover: "https://hs9.krakenfiles.com/uploads/06-10-2025/SnMiKZuYo7/cover.png"
   },
   {
     title: "Kiss Me",
     artist: "Dermot Kennedy",
-    file: "https://files.catbox.moe/8zb396.mp3",
-    cover: "https://i.postimg.cc/V6MvCyNt/Dermot-Kennedy-Kiss-Me-Acoustic-Lyrics-Genius-Lyrics.jpg"
+    file: "https://hs3.krakenfiles.com/uploads/06-10-2025/xhrUA4EHmg/music.m4a",
+    cover: "https://hs3.krakenfiles.com/uploads/06-10-2025/xhrUA4EHmg/cover.png"
   },
   {
-    title: "Better Day",
+    title: "Better Days",
     artist: "Dermot Kennedy",
-    file: "https://files.catbox.moe/s6iin3.mp3",
-    cover: "https://i.postimg.cc/V6MvCyNt/Dermot-Kennedy-Kiss-Me-Acoustic-Lyrics-Genius-Lyrics.jpg"
+    file: "https://hs7.krakenfiles.com/uploads/06-10-2025/dYBxbBB34T/music.m4a",
+    cover: "https://hs7.krakenfiles.com/uploads/06-10-2025/dYBxbBB34T/cover.png"
   },
   {
     title: "Numb",
     artist: "Marshmello, Khalid",
-    file: "https://files.catbox.moe/u9n81t.mp3",
-    cover: "https://i.postimg.cc/02GS4SPS/Apple-Music-Marshmello-amp-Khalid-Numb-Single-1.jpg"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/nPB5J9a5kw/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/nPB5J9a5kw/cover.png"
   },
   {
     title: "Girls in Luv",
     artist: "DJane HouseKat feat. Rameez",
-    file: "https://files.catbox.moe/0etv0s.mp3",
-    cover: "https://i.postimg.cc/wvSNCc1X/Girls-in-Luv-feat-DJane-House-Kat-You-Tube-Music-1.jpg"
+    file: "https://hs10.krakenfiles.com/uploads/06-10-2025/iwRa8alSl7/music.m4a",
+    cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/iwRa8alSl7/cover.png"
   },
   {
     title: "Good Feeling",
     artist: "Flo Rida",
-    file: "https://files.catbox.moe/6hhq9g.mp3",
-    cover: "https://i.postimg.cc/ZnpN4BN1/Good-Feeling-by-Flo-Rida-Rihanna-lyrics-Piano-sheet-music-Kar.jpg"
+    file: "https://hs7.krakenfiles.com/uploads/06-10-2025/4RT7YWCOJD/music.m4a",
+    cover: "https://hs7.krakenfiles.com/uploads/06-10-2025/4RT7YWCOJD/cover.png"
   },
   {
     title: "Whistle",
     artist: "Flo Rida",
-    file: "https://files.catbox.moe/clnap6.mp3",
-    cover: "https://i.postimg.cc/LsQLTMR0/Flo-Rida-Whistle-Lyrics-Genius-Lyrics.png"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/QRH7UgswfQ/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/QRH7UgswfQ/cover.png"
   },
   {
     title: "Hear Me Now",
     artist: "Alok,feat Zeeba",
-    file: "https://files.catbox.moe/pixm40.mp3",
-    cover: "https://i.postimg.cc/htgL4rpM/Alok-Wallpapers-4k-HD-Alok-Backgrounds-on-Wallpaper-Bat.jpg"
+    file: "https://hs8.krakenfiles.com/uploads/06-10-2025/MdwPg2MaCg/music.m4a",
+    cover: "https://hs8.krakenfiles.com/uploads/06-10-2025/MdwPg2MaCg/cover.png"
+  },
+  {
+    title: "Blinding Lights",
+    artist: "The Weeknd",
+    file: "https://hs4.krakenfiles.com/uploads/06-10-2025/9hUlzyy1ec/music.m4a",
+    cover: "https://hs4.krakenfiles.com/uploads/06-10-2025/9hUlzyy1ec/cover.png"
+  },
+  {
+    title: "Das Geht Boom",
+    artist: "Harris & Ford, Gordon & Doyle, Lisah",
+    file: "https://hs10.krakenfiles.com/uploads/06-10-2025/LY7F4vtiVh/music.m4a",
+    cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/LY7F4vtiVh/cover.png"
+  },
+  {
+    title: "From Up Above",
+    artist: "Twinjabi",
+    file: "https://hs3.krakenfiles.com/uploads/06-10-2025/lixavGBf8l/music.m4a",
+    cover: "https://hs3.krakenfiles.com/uploads/06-10-2025/lixavGBf8l/cover.png"
+  },
+  {
+    title: "Greedy",
+    artist: "Tate McRae",
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/cJutDJ1LLD/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/cJutDJ1LLD/cover.png"
+  },
+  {
+    title: "Hislerim",
+    artist: "Serhat Durmus, Zerrin",
+    file: "https://hs3.krakenfiles.com/uploads/06-10-2025/E41Jgpd6k5/music.m4a",
+    cover: "https://hs3.krakenfiles.com/uploads/06-10-2025/E41Jgpd6k5/cover.png"
+  },
+  {
+    title: "Ma Chérie",
+    artist: "DJ Antoine, The Beatshakers",
+    file: "https://hs7.krakenfiles.com/uploads/06-10-2025/KeAyRNnOgT/music.m4a",
+    cover: "https://hs7.krakenfiles.com/uploads/06-10-2025/KeAyRNnOgT/cover.png"
   },
   {
     title: "There For Me",
     artist: "Braaten & Victor Perry",
-    file: "https://files.catbox.moe/55rhhy.mp3",
-    cover: "https://i.postimg.cc/2jsdMmWs/Braaten-amp-Victor-Perry-There-For-Me-Lyrics-Genius-Lyrics.png"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/A94fJkjMck/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/A94fJkjMck/cover.png"
   },
   {
     title: "Burn",
     artist: "Ellie Goulding",
-    file: "https://files.catbox.moe/nagm5w.mp3",
-    cover: "https://i.postimg.cc/bN10jMHs/Ellie-Goulding-Burn-Album.png"
+    file: "https://hs10.krakenfiles.com/uploads/06-10-2025/1q2icXbgwS/music.m4a",
+    cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/1q2icXbgwS/cover.png"
   },
   {
     title: "She Doesn t Mind",
     artist: "Sean Paul",
-    file: "https://files.catbox.moe/2sihut.mp3",
-    cover: "https://i.postimg.cc/B6tc9nM0/Corrientes-de-M-sica-SEAN-PAUL-She-Doesn-t-Mind-Remix.jpg"
+    file: "https://hs6.krakenfiles.com/uploads/06-10-2025/pY0CZDzyLb/music.m4a",
+    cover: "https://hs6.krakenfiles.com/uploads/06-10-2025/pY0CZDzyLb/cover.png"
   },
   {
     title: "What The Hell",
     artist: "Avril Lavigne",
-    file: "https://files.catbox.moe/3xrm6t.mp3",
-    cover: "https://i.postimg.cc/Vsp4wnxH/Image-gallery-for-Avril-Lavigne-What-the-Hell-Music-Video-Fi.jpg"
+    file: "https://hs7.krakenfiles.com/uploads/06-10-2025/MOhZSrQHit/music.m4a",
+    cover: "https://hs7.krakenfiles.com/uploads/06-10-2025/MOhZSrQHit/cover.png"
   },
   {
     title: "Girl On The Moon",
     artist: "Naya",
-    file: "https://files.catbox.moe/l25lw2.mp3",
-    cover: "https://i.postimg.cc/SN9dxjqQ/Naya-une-girl-on-the-moon-prometteuse-interview-Ruby-1.jpg"
+    file: "https://hs8.krakenfiles.com/uploads/06-10-2025/BA2R9LqBzH/music.m4a",
+    cover: "https://hs8.krakenfiles.com/uploads/06-10-2025/BA2R9LqBzH/cover.png"
   },
   
   {
     title: "One More Night",
     artist: "Lost Frequencies",
-    file: "https://files.catbox.moe/0yy4cy.mp3",
-    cover: "https://i.postimg.cc/vm4cGxF3/Lost-Frequencies-Unveils-New-Track-039-One-More-Night-039-EDMTunes.jpg"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/XnqOt7Tc55/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/XnqOt7Tc55/cover.png"
   },
   {
     title: "Dont Leave Me Now",
     artist: "Lost Frequencies",
-    file: "https://files.catbox.moe/w6cggl.mp3",
-    cover: "https://i.postimg.cc/sg6MF98M/PAST-EVENTS-Theory-Elevengg.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/7Pv5GBz537/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/7Pv5GBz537/cover.png"
   },
   {
     title: "Play",
     artist: "Alan Walker & Tungevaag",
-    file: "https://files.catbox.moe/1s4gxi.mp3",
-    cover: "https://i.postimg.cc/cCRvVqyW/61-Alan-walker-ideas-alan-walker-walker-alany.jpg"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/YtVI8fkq0H/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/YtVI8fkq0H/cover.png"
   },
   {
     title: "Knockout",
     artist: "Tungevaag",
-    file: "https://files.catbox.moe/ulxi3h.mp3",
-    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
+    file: "https://hs1.krakenfiles.com/uploads/06-10-2025/4uQiAs0E6S/music.m4a",
+    cover: "https://hs1.krakenfiles.com/uploads/06-10-2025/4uQiAs0E6S/cover.png"
   },
   {
     title: "Make You Happy",
     artist: "Tungevaag",
-    file: "https://files.catbox.moe/ef6oj6.mp3",
-    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/JGdg7n5kwG/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/JGdg7n5kwG/cover.png"
   },
   {
     title: "Kingdoms",
     artist: "Tungevaag & Jay Hardway",
-    file: "https://files.catbox.moe/45ckcv.mp3",
-    cover: "https://i.postimg.cc/NfxyDwk7/Tungevaag-Dharma-Studio.jpg"
+    file: "https://hs9.krakenfiles.com/uploads/06-10-2025/QjG8TKoab9/music.m4a",
+    cover: "https://hs9.krakenfiles.com/uploads/06-10-2025/QjG8TKoab9/cover.png"
   },
   {
     title: "Tusa",
     artist: "Karol",
-    file: "https://files.catbox.moe/udl6zt.mp3",
-    cover: "https://i.postimg.cc/15SnDzw3/Karol-G-Feat-Nicki-Minaj-Tusa-David-Dancos-Remix-by-David-D.jpg"
+    file: "https://hs10.krakenfiles.com/uploads/06-10-2025/NUr0FsoIFi/music.m4a",
+    cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/NUr0FsoIFi/cover.png"
   },
   {
     title: "Tired",
     artist: "Alan Walker",
-    file: "https://files.catbox.moe/52a0nh.mp3",
-    cover: "https://i.postimg.cc/TPtZNfj0/Beauty-Plus-20251002041642052-save.jpg"
+    file: "https://hs8.krakenfiles.com/uploads/06-10-2025/v4MqA0PnKu/music.m4a",
+    cover: "https://hs8.krakenfiles.com/uploads/06-10-2025/v4MqA0PnKu/cover.png"
   },
   {
     title: "One More Light",
     artist: "Linkin Park",
-    file: "https://files.catbox.moe/rnom3s.mp3",
-    cover: "https://i.postimg.cc/8kMfFvFY/Linkin-Park-One-More-Light-2017-be-subjective-1.jpg"
+    file: "https://hs3.krakenfiles.com/uploads/06-10-2025/vtFh0H22B0/music.m4a",
+    cover: "https://hs3.krakenfiles.com/uploads/06-10-2025/vtFh0H22B0/cover.png"
   },
   {
     title: "Apocalypse",
     artist: "Cigarette After",
-    file: "https://files.catbox.moe/gmsls0.mp3",
-    cover: "https://i.postimg.cc/PqJ8NFZb/Cigarettes-After-Sex-Apocalypse-Lyrics-Genius-Lyrics.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/QwwF7HF2eV/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/QwwF7HF2eV/cover.png"
   },
   {
     title: "Dynasty",
     artist: "Miia",
-    file: "https://files.catbox.moe/n4pgnt.mp3",
-    cover: "https://i.postimg.cc/FK6kSggM/1758591260433.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/hjItJYEi7X/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/hjItJYEi7X/cover.png"
   },
   {
     title: "Say Yes To Heaven",
     artist: "Lana Del Rey",
-    file: "https://files.catbox.moe/q7o25y.mp3",
-    cover: "https://i.postimg.cc/t42xqH1C/Lana-Del-Rey-Yes-To-Heaven-by-Kallum-Lavigne-on-Deviant-Art.png"
+    file: "https://hs5.krakenfiles.com/uploads/06-10-2025/OK1i6v6jzi/music.m4a",
+    cover: "https://hs5.krakenfiles.com/uploads/06-10-2025/OK1i6v6jzi/cover.png"
   },
   {
     title: "Royalty",
     artist: "Egzod, Maestro Chives, Neoni",
-    file: "https://files.catbox.moe/9ok0rh.mp3",
-    cover: "https://i.postimg.cc/v8VfWjK3/Egzod-on-TIDAL.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/3k5deJyn9O/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/3k5deJyn9O/cover.png"
   },
   {
     title: "Lovely",
     artist: "Billie Eilish",
-    file: "https://files.catbox.moe/5i9juo.mp3",
-    cover: "https://i.postimg.cc/133xG8wQ/Billie-Eilish-Lovely-1.jpg"
+    file: "https://hs2.krakenfiles.com/uploads/06-10-2025/BbXShsS2PL/music.m4a",
+    cover: "https://hs2.krakenfiles.com/uploads/06-10-2025/BbXShsS2PL/cover.png"
   },
   {
     title: "Let Me Down Slowly",
     artist: "Alec Benjamin",
-    file: "https://files.catbox.moe/ndxvu0.mp3",
-    cover: "https://i.postimg.cc/FsZ5kydr/Let-Me-Down-Slowly-Cover-You-Tube-Music-1.jpg"
+    file: "https://hs5.krakenfiles.com/uploads/06-10-2025/DhFDzNeYMF/music.m4a",
+    cover: "https://hs5.krakenfiles.com/uploads/06-10-2025/DhFDzNeYMF/cover.png"
   }
 
 ];
