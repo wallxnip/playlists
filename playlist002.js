@@ -1,4 +1,4 @@
-// Lista de músicas
+// Trilha Sonora
 const playlist2 = [
   {
     title: "Quando posso te ver novamente?",
