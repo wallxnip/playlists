@@ -7,6 +7,12 @@ const playlist1 = [
     cover: "https://hs10.krakenfiles.com/uploads/06-10-2025/rOQRaw5XV5/cover.png"
   },
   {
+    title: "I Regret You",
+    artist: "Bree Taylor",
+    file: "https://hs6.krakenfiles.com/uploads/08-10-2025/rJ87oimhgS/music.m4a",
+    cover: "https://hs6.krakenfiles.com/uploads/08-10-2025/rJ87oimhgS/cover.png"
+  },
+  {
     title: "Sorry",
     artist: "Justin Bieber",
     file: "https://hs9.krakenfiles.com/uploads/06-10-2025/IV2ksX2ETu/music.m4a",
