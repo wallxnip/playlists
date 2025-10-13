@@ -1,5 +1,5 @@
 // Trilha Sonora
-const playlist002 = [
+const playlist005 = [
   {
     title: "Quando posso te ver novamente?",
     artist: "Detona Ralph",
