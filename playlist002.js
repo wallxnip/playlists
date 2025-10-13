@@ -7,6 +7,12 @@ const playlist002 = [
     cover: "https://i.postimg.cc/76hgnk4H/That-s-Who-I-Praise.webp"
   },
   {
+    title: "Stay",
+    artist: "The Kid Laroi, Justin Bieberr",
+    file: "https://hs7.krakenfiles.com/uploads/13-10-2025/hoRpw00dWw/music.m4a",
+    cover: "https://i.postimg.cc/4xtZn7Hr/Stay.webp"
+  },
+  {
     title: "Anyone",
     artist: "Justin Bieber",
     file: "https://hs2.krakenfiles.com/uploads/13-10-2025/bSF16U7sM9/music.m4a",
@@ -17,6 +23,12 @@ const playlist002 = [
     artist: "Romee Storm",
     file: "https://hs10.krakenfiles.com/uploads/13-10-2025/dcxKtmVF6E/music.m4a",
     cover: "https://i.postimg.cc/g0CZ86g1/Control.webp"
+  },
+  {
+    title: "The Nights",
+    artist: "Avicii",
+    file: "https://hs5.krakenfiles.com/uploads/13-10-2025/R6452N4hEk/music.m4a",
+    cover: "https://i.postimg.cc/ht9WckH4/The-Nights.webp"
   },
   {
     title: "Hall of Fame",
@@ -31,25 +43,11 @@ const playlist002 = [
     cover: "https://i.postimg.cc/NMxjFySR/Slip-Away.webp"
   },
   {
-    title: "Stay",
-    artist: "The Kid Laroi, Justin Bieberr",
-    file: "https://hs7.krakenfiles.com/uploads/13-10-2025/hoRpw00dWw/music.m4a",
-    cover: "https://i.postimg.cc/4xtZn7Hr/Stay.webp"
-  },
-  {
-    title: "The Nights",
-    artist: "Avicii",
-    file: "https://hs5.krakenfiles.com/uploads/13-10-2025/R6452N4hEk/music.m4a",
-    cover: "https://i.postimg.cc/ht9WckH4/The-Nights.webp"
-  },
-  {
     title: "Way Back Home",
     artist: "Cassiopeia",
     file: "https://hs3.krakenfiles.com/uploads/13-10-2025/x7kwoglh31/music.m4a",
     cover: "https://i.postimg.cc/fbBPbDCG/Way-Back-Home.webp"
   },
-  
-  
   
   
 ];
