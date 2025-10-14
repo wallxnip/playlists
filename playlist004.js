@@ -6,6 +6,11 @@ const playlist004 = [
     file: "https://hs5.krakenfiles.com/uploads/10-10-2025/f9Dv2W9H49/music.m4a",
     cover: "https://i.postimg.cc/Vs3TJjgC/kawe.webp"
   },
-
+  {
+    title: "Os Muleke É Liso",
+    artist: "MC Rodolfinho",
+    file: "https://hs4.krakenfiles.com/uploads/14-10-2025/tggc9z0iRJ/music.m4a",
+    cover: ""
+  },
 
 ];
