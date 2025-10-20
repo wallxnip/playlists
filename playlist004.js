@@ -13,6 +13,12 @@ const playlist004 = [
     cover: "https://i.postimg.cc/Gm5TGhrK/Os-Mlk-Liso.webp"
   },
   {
+    title: "Maria Mariah",
+    artist: "Luanzinho, MC Meno Dani",
+    file: "https://hs5.krakenfiles.com/uploads/20-10-2025/sQ5jVgDguJ/music.m4a",
+    cover: "https://i.postimg.cc/FsCSvZyh/mariah.webp"
+  },
+  {
     title: "Tudo de Bom",
     artist: "Mc Livinho",
     file: "https://hs8.krakenfiles.com/uploads/20-10-2025/mAjjRtM5tr/music.m4a",
@@ -29,12 +35,6 @@ const playlist004 = [
     artist: "MC Pedrinho",
     file: "https://hs8.krakenfiles.com/uploads/20-10-2025/16DGgVayS1/music.m4a",
     cover: "https://i.postimg.cc/q7Vd6Ps5/Pedrinho.webp"
-  },
-  {
-    title: "Maria Mariah",
-    artist: "Luanzinho, MC Meno Dani",
-    file: "https://hs5.krakenfiles.com/uploads/20-10-2025/sQ5jVgDguJ/music.m4a",
-    cover: "https://i.postimg.cc/FsCSvZyh/mariah.webp"
   },
   {
     title: "Lei do Retorno",
