@@ -39,13 +39,13 @@ const playlist002 = [
   {
     title: "Slip Away",
     artist: "Johnny Valentine",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Slip Away.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Slip Away.mp3",
     cover: "https://i.postimg.cc/NMxjFySR/Slip-Away.webp"
   },
   {
     title: "Way Back Home",
     artist: "Cassiopeia",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Way Back Home.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Way Back Home.mp3",
     cover: "https://i.postimg.cc/fbBPbDCG/Way-Back-Home.webp"
   }
 ];
