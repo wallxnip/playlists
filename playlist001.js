@@ -115,9 +115,9 @@ const playlist1 = [
     cover: "https://i.postimg.cc/j28G5Z4g/Ellie-Goulding-Burn-Album.webp"
   },
   {
-    title: "She Doesn t Mind",
+    title: "She Doesn't Mind",
     artist: "Sean Paul",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/She Doesn t Mind.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/She Doesn't Mind.mp3",
     cover: "https://i.postimg.cc/nzFRDqz7/Sean-Paul-She-Doesn-t-Mind-Dj-Pamen-Remix.webp"
   },
   {
@@ -139,9 +139,9 @@ const playlist1 = [
     cover: "https://i.postimg.cc/JzPVd7kS/omn.webp"
   },
   {
-    title: "Dont Leave Me Now",
+    title: "Don't Leave Me Now",
     artist: "Lost Frequencies",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Dont Leave Me Now.mp3",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Don't Leave Me Now.mp3",
     cover: "https://i.postimg.cc/zv0VfZQH/Lost-Frequencies.webp"
   },
   {
