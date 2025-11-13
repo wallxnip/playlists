@@ -4,7 +4,7 @@ const playlist004 = [
     title: "Iluminado",
     artist: "Kawe",
     file: "https://hs5.krakenfiles.com/uploads/10-10-2025/f9Dv2W9H49/music.m4a",
-    cover: "https://i.postimg.cc/Vs3TJjgC/kawe.webp"
+    cover: "https://i.postimg.cc/hGYLsWKT/Iluminado.webp"
   },
   {
     title: "Os Muleke E Liso",
