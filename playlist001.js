@@ -130,7 +130,7 @@ const playlist1 = [
     title: "Girl On The Moon",
     artist: "Naya",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Girl On The Moon.mp3",
-    cover: "https://i.postimg.cc/kXvyxB08/Naya-Ruby.webp"
+    cover: "https://i.postimg.cc/PqNHyC5w/Naya-Ruby.webp"
   },
   {
     title: "One More Night",
