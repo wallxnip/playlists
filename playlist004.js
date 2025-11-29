@@ -76,6 +76,6 @@ const playlist004 = [
     title: "Cachorrinha de Madame",
     artist: "DJ Duarte, DJ TS, Mc Gw, Pollini, Prime Funk",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (Deluxe)/Cachorrinha de Madame.mp3",
-    cover: "https://i.postimg.cc/jSJb5x73/juan.webp"
+    cover: "https://i.postimg.cc/fyfx1g8R/duarte.webp"
   }
 ];
