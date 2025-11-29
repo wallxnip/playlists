@@ -15,7 +15,7 @@ const playlist004 = [
   {
     title: "Maria Mariah",
     artist: "Luanzinho, MC Meno Dani",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (Deluxe)/Maria Mariah.mp3,
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Funk (Deluxe)/Maria Mariah.mp3",
     cover: "https://i.postimg.cc/FsCSvZyh/mariah.webp"
   },
   {
