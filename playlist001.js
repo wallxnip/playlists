@@ -4,7 +4,7 @@ const playlist1 = [
   type: "info", // marca que é info e não música
   title: "Sextou Na Areia", // título do álbum/playlist
   artist: "Rabbix",         // artista ou dono da playlist
-  cover: "https://i.postimg.cc/ff.jpg", // imagem da capa
+  cover: "https://i.postimg.cc/VkDm8zCb/klb.webp", // imagem da capa
   meta: "Álbum · 24 out. 2025 · Último lançamento" // qualquer informação extra
   },
   {
