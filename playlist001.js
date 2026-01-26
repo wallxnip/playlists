@@ -1,6 +1,13 @@
 // Lançamentos
 const playlist1 = [
   {
+  type: "info", // marca que é info e não música
+  title: "Sextou Na Areia", // título do álbum/playlist
+  artist: "Rabbix",         // artista ou dono da playlist
+  cover: "https://i.postimg.cc/ff.jpg", // imagem da capa
+  meta: "Álbum · 24 out. 2025 · Último lançamento" // qualquer informação extra
+  },
+  {
     title: "Giuliana",
     artist: "KLB",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Giuliana.mp3",
