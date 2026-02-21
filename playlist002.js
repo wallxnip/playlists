@@ -1,6 +1,14 @@
 // Lista de músicas
 const playlist002 = [
   {
+
+    title: "After Dark",
+    artist: "Ocean Black",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/After Dark.mp3",
+    cover: "https://i.postimg.cc/X7mYLGQJ/After-Dark.webp"
+  },
+  {
+
     title: "That's Who I Praise",
     artist: "Brandon Lake",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/That's Who I Praise.mp3",
