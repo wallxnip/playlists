@@ -1,6 +1,12 @@
 // Lançamentos
 const playlist1 = [
   {
+    title: "Amor é Sexo",
+    artist: "Hungria  feat  Tribo da Periferia",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Lançamentos/Amor é Sexo.mp3",
+    cover: "https://i.postimg.cc/htJsffrJ/boss.webp"
+  },
+  {
     title: "Giuliana",
     artist: "KLB",
     file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/KLB/Giuliana.mp3",
