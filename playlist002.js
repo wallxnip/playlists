@@ -1,5 +1,11 @@
 // Lista de músicas
 const playlist002 = [
+{
+    title: "After Dark",
+    artist: "Mr Kitty",
+    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Ty Músic/Mr.Kitty - After Dark.mp3",
+    cover: "https://i.postimg.cc/RFyWqkDS/After-Dark.webp"
+  },
   {
     title: "After Dark BR",
     artist: "Kim Saisse, Mr Kitty",
