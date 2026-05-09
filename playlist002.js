@@ -10,7 +10,7 @@ const playlist002 = [
     title: "After Dark BR",
     artist: "Kim Saisse, Mr Kitty",
     file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/After Dark BR.mp3",
-    cover: "https://i.postimg.cc/X7mYLGQJ/After-Dark.webp"
+    cover: "https://i.postimg.cc/hGwXt9Dr/After-Dark.webp"
   },
   {
     title: "After Dark",
