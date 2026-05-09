@@ -27,7 +27,7 @@ const playlist002 = [
   {
     title: "Stay",
     artist: "The Kid Laroi, Justin Bieberr",
-    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/Stay.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Ty Músic/STAY.mp3",
     cover: "https://i.postimg.cc/4xtZn7Hr/Stay.webp"
   },
   {
