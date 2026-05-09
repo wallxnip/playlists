@@ -3,7 +3,7 @@ const playlist1 = [
   {
     title: "Amor é Sexo",
     artist: "Hungria  feat  Tribo da Periferia",
-    file: "https://nd.nl.tab.digital/public.php/dav/files/QjzyC5ZixygLoHL/Lançamentos/Amor é Sexo.mp3",
+    file: "https://pub-e00f997a056944a1ada4449909225910.r2.dev/Amor%20%C3%A9%20Sexo.mp3",
     cover: "https://i.postimg.cc/htJsffrJ/boss.webp"
   },
   {
